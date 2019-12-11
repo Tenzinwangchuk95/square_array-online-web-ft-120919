@@ -1,7 +1,7 @@
 def square_array(array)
   new_array= []
     array.each do |number|
-      Math.sqrt(number) >> new_array
+       >> new_arrayMath.sqrt(number)
     end
     return new_array
 end
